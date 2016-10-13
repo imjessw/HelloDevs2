@@ -38,6 +38,15 @@
 	padding-top: 20px;
 }
 
-.connect{
+h1.timeline-Header-title {
+	display: none !important;
+
+}
+
+.email{
+	
+}
+
+.sponsors{
 
 }
