@@ -1,0 +1,33 @@
+.header{
+	background-color: #4b9884;
+	height: 123px;
+
+}
+.header-Logo{
+	padding-top:11px;
+	height: 139px;
+}
+.header-Social{
+/*	padding-top: 15%;*/
+}
+
+
+.mainBody{
+	background-color: #ece8ea;
+	padding-top: 51px;
+}
+
+.applyButton{
+	background-color: #e12983;
+	width: 100%;
+	padding-top: 10px;
+	margin-bottom: 30px; 
+	padding-bottom: 10px;
+	color:white;
+}
+
+.devPics{
+	width: 100%;
+	padding-bottom: 30px;
+
+}
